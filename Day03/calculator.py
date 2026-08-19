@@ -6,11 +6,11 @@ def addition():
     print(addition)
 
 def substraction():
-    substraction = (num1 + num2)
+    substraction = (num1 - num2)
     print(substraction)
 
 def multiplication():
-    multiplication = (num1 + num2)
+    multiplication = (num1 * num2)
     print(multiplication)
 
 addition()
